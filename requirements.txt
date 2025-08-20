@@ -3,3 +3,17 @@ whisper
 numpy
 librosa
 torch
+transformers
+pandas
+chardet
+openpyxl
+sacrebleu
+indic-nlp-library
+sentencepiece
+protobuf
+sacremoses
+regex
+nltk
+Cython
+IndicTransToolkit
+indictrans2
