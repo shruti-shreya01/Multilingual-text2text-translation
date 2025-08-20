@@ -1,5 +1,5 @@
 
-# AI-Powered Language Tools
+# Multilingual Text & Speech Conversational AI Toolkit
 
 This repository contains three AI-powered projects that focus on multilingual text translation, speech-to-text conversion, and text-to-speech synthesis. These projects are built using state-of-the-art transformer models and speech processing frameworks.
 
