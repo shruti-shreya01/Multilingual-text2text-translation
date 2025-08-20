@@ -1,3 +1,4 @@
+
 # AI-Powered Language Tools
 
 This repository contains three AI-powered projects that focus on multilingual text translation, speech-to-text conversion, and text-to-speech synthesis. These projects are built using state-of-the-art transformer models and speech processing frameworks.
@@ -7,6 +8,7 @@ This repository contains three AI-powered projects that focus on multilingual te
 ## 1. Multilingual Text Translator 🌐
 
 A web application for translating text between English and various Indic languages, and vice versa.
+<img width="1698" height="888" alt="Screenshot 2025-08-20 182443" src="https://github.com/user-attachments/assets/95fc01d1-ca97-4b8d-9ccd-c3e92470603c" />
 
 **Features:**
 - Translate text from English to Indic languages and from Indic languages to English.
